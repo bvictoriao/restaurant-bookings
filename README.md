@@ -10,7 +10,7 @@
 
 ### Lean Canvas
 
-![Lean Canvas](assets/lean-canvas.png)
+![Lean Canvas](lean-canvas.png)
 
 #### 1. Сегменты потребителей
 
